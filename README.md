@@ -10,6 +10,8 @@ It's like a calculator but better
  
  4) Open up `interface.html` to use your new calculator
  
+ (or alternatively just use the provided calculator and interface)
+ 
  # Footnote
  
  Please check out https://github.com/Pagwin-Fedora/perfect-python-calculator as I stole the idea from here
