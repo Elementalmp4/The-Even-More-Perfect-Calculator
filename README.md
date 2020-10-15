@@ -9,3 +9,7 @@ It's like a calculator but better
  3) Run the generator: `node generator.js` (This could take some time)
  
  4) Open up `interface.html` to use your new calculator
+ 
+ # Footnote
+ 
+ Please check out https://github.com/Pagwin-Fedora/perfect-python-calculator as I stole the idea from here
